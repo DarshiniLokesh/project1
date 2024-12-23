@@ -1,0 +1,4 @@
+{
+    "tmdbApiKey": "e79f2bf872710e17556d8cfe30b0fcee",
+    "dbUri": "mongodb://localhost/moviedb"
+}
